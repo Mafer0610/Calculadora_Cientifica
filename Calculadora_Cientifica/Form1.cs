@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Windows.Forms;
-using static com.calitha.goldparser.LALRParser;
+using com.calitha.goldparser;
 
 namespace Calculadora_Cientifica
 {
