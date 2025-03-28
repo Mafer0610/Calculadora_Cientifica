@@ -1,7 +1,6 @@
 ﻿using System;
 using System.IO;
 using System.Windows.Forms;
-using GoldParser;
 using static com.calitha.goldparser.LALRParser;
 
 namespace Calculadora_Cientifica
@@ -113,4 +112,5 @@ namespace Calculadora_Cientifica
             }
         }
     }
+
 }
